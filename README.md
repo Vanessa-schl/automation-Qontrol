@@ -1,4 +1,4 @@
-O código abaixo é um script Python para resgatar informações de vídeos no YouTube usando a biblioteca Selenium.
+O código é um script Python para resgatar informações de vídeos no YouTube usando a biblioteca Selenium.
 
 Importações:
 
